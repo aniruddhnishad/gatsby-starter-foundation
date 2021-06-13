@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Aniruddh
-tagline: Geeky Blogger
-featuredImage: /assets/aniruddh-image1.jpg
+title: News On Date
+tagline: Latest News
+featuredImage: /assets/markus-winkler-aid-xyrtlec-unsplash.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
